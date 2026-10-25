@@ -1,4 +1,4 @@
-# Tugas-Module-1-Dasar-Pemograman-JavaScript
+# Tugas Module-1 Dasar Pemograman JavaScript
 
 ## Sebelum Kalian Clone, diharapkan meng install Node.js, jika sudah kalian bisa mengecek Node.js, dengan command berikut :
 ```bash

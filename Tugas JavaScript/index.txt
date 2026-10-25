@@ -1,0 +1,17 @@
+KERJAKAN TUGAS INI DI FILE INDEX.JS
+-----------------------------------
+
+tugas 1 : Buat variabel namaSiswa bertipe String (teks) dan isi dengan nama yang kalian mau.
+
+tugas 2 : Buat variabel nilaiUjian bertipe Number (angka) dan isi dengan nilai bebas dari 0 hingga 100.
+
+tugas 3 : - Buat sebuah function() bernama cekKelulusan yang menerima satu parameter angka.
+          - Di dalam fungsi tersebut, gunakan logika instruksi if-elseif-else:
+          - Apabila nilai lebih besar atau sama dengan 80, fungsi harus mengembalikan (return) teks: "Lulus".
+          - Apabila nilai lebih besar sama dengan 75, fungsi harus mengembalikan (return) teks: "Nilai Pas KKM".
+          - Apabila nilai di bawah 75, fungsi harus mengembalikan (return) teks: "Remedial".
+
+tugas 4 : - Panggil fungsi cekKelulusan dengan memasukkan nilai dari variabel nilaiUjian.
+          - Simpan hasil pemanggilan fungsi ke dalam sebuah variabel baru bernama statusSiswa.
+          - Gunakan console.log untuk mencetak kalimat hasil akhir ke layar.
+          - Contoh Output yang Dihrapkan di terminal : "Siswa bernama Budi mendapatkan nilai 80. Status: Lulus".
